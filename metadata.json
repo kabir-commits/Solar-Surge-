@@ -1,0 +1,6 @@
+{
+  "name": "Solar Surge",
+  "description": "High-octane neon cosmic arcade runner with custom gravity dynamics, procedural hazards, and explosive supernova visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
